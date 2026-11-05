@@ -1,0 +1,98 @@
+[
+  {
+    "id": "MATH_G3_001",
+    "subject": "math",
+    "grade": 3,
+    "topic": "multiplication",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "prompt": "12 × 8 bằng bao nhiêu?",
+    "options": [
+      {
+        "id": "A",
+        "text": "86"
+      },
+      {
+        "id": "B",
+        "text": "96"
+      },
+      {
+        "id": "C",
+        "text": "100"
+      },
+      {
+        "id": "D",
+        "text": "108"
+      }
+    ],
+    "correctOptionIds": [
+      "B"
+    ],
+    "explanation": "12 × 8 = 96.",
+    "active": true
+  },
+  {
+    "id": "ENG_G3_001",
+    "subject": "english",
+    "grade": 3,
+    "topic": "opposites",
+    "difficulty": "easy",
+    "type": "single_choice",
+    "prompt": "What is the opposite of hot?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cold"
+      },
+      {
+        "id": "B",
+        "text": "Warm"
+      },
+      {
+        "id": "C",
+        "text": "Tall"
+      },
+      {
+        "id": "D",
+        "text": "Fast"
+      }
+    ],
+    "correctOptionIds": [
+      "A"
+    ],
+    "explanation": "Cold is the opposite of hot.",
+    "active": true
+  },
+  {
+    "id": "SPELL_G3_001",
+    "subject": "spelling",
+    "grade": 3,
+    "topic": "vietnamese-spelling",
+    "difficulty": "medium",
+    "type": "single_choice",
+    "prompt": "Từ nào được viết đúng chính tả?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sạch sẽ"
+      },
+      {
+        "id": "B",
+        "text": "Sạch sẻ"
+      },
+      {
+        "id": "C",
+        "text": "Sạch xẻ"
+      },
+      {
+        "id": "D",
+        "text": "Sạch sể"
+      }
+    ],
+    "correctOptionIds": [
+      "A"
+    ],
+    "explanation": "Cách viết đúng là sạch sẽ.",
+    "active": true
+  }
+]
